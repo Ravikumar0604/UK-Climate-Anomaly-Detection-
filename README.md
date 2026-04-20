@@ -1,5 +1,5 @@
 # Multivariate Climate Anomaly Detection in the UK Using Machine Learning and Deep Learning
-<img width="1742" height="291" alt="image" src="https://github.com/user-attachments/assets/6875c457-0003-4e01-8237-3db60ac70f39" />
+
 
 
 ## Project Overview
