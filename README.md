@@ -1,4 +1,6 @@
-# UK Climate Anomaly Detection Using NASA POWER Data and Machine Learning
+# Multivariate Climate Anomaly Detection in the UK Using Machine Learning and Deep Learning
+<img width="1742" height="291" alt="image" src="https://github.com/user-attachments/assets/6875c457-0003-4e01-8237-3db60ac70f39" />
+
 
 ## Project Overview
 This project investigates climate anomaly detection across major cities in the United Kingdom using multivariate time-series climate data. The study compares a classical unsupervised machine learning model, **Isolation Forest**, with a deep learning temporal model, **LSTM Autoencoder**, to determine which approach provides more reliable anomaly detection.
